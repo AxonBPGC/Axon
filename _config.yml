@@ -10,7 +10,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Axon BITS-Pilani,K.K Birla Goa Campus"
 description              : "Neurotech BITS Goa"
 url                      : "https://axonbpgc.github.io"
-baseurl                  : "/"
+baseurl                  : #"/"
 repository               : "AxonBPGC/Axon"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -27,12 +27,12 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"
+    colorscheme          : #"dark"
   utterances:
-    theme                : "github-dark"
+    theme                : #"github-dark"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : "master"
+    branch               : #"master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
@@ -85,7 +85,7 @@ author:
   avatar           : "/assets/images/logo.png"
   bio              : "NeurotechX BITS Pilani, Goa Chapter"
   location         : "Goa, India"
-  email            :  "AxonBPGC@gmail.com"
+  email            : "AxonBPGC@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
