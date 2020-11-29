@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "AXON"
   avatar           : "/assets/images/logo.png"
-  bio              : "NeurotechX BITS Pilani, Goa Chapter"
+  bio              : "NeuroTechX BITS Pilani, Goa "
   location         : "Goa, India"
   email            : "AxonBPGC@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "mailto:AxonBPGC@gmail.com"
+      url: "mailto: AxonBPGC@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
