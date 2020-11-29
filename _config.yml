@@ -85,7 +85,7 @@ author:
   avatar           : "/assets/images/logo.png"
   bio              : "NeurotechX BITS Pilani, Goa Chapter"
   location         : "Goa, India"
-  email            :  AxonBPGC@gmail.com
+  email            :  "AxonBPGC@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
