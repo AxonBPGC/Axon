@@ -11,7 +11,7 @@ name                     : "Axon BITS-Pilani,K.K Birla Goa Campus"
 description              : "Neurotech BITS Goa"
 url                      : "https://axonbpgc.github.io"
 baseurl                  : #"/"
-repository               : "AxonBPGC/Axon"
+repository               : "AxonBPGC/axonbpgc.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/BITS.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
